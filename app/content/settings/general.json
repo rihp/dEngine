@@ -1,7 +1,7 @@
 {
   "title": "dEngine",
   "titleTemplate": "| dOrg",
-  "welcomeText": "# Enabling Digital Organisms\n\nYou can read the [Lite Paper](/dEngine_LitePaper.pdf) and sign up for the early access. Lorem ipsum text would go here Web3 devshop dOrg domintet scaffolding API abcd lorem ipsum text here.",
+  "welcomeText": "# Enabling Digital Organisms\n\nYou can read the [Lite Paper](https://github.com/rihp/dEngine/blob/master/dEngine_LitePaper.pdf) and sign up for the early access. Lorem ipsum text would go here Web3 devshop dOrg domintet scaffolding API abcd lorem ipsum text here.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#1AAF71",
