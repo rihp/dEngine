@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img class="rounded shadow-xl" src="https://source.unsplash.com/720x400/?insect,plant" />
+        <img class="rounded shadow-xl" src="https://source.unsplash.com/720x400/?insect,plant,green" />
       </div>
     </div>
   </section>
